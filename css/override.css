@@ -1,0 +1,10 @@
+.header-container {
+  min-height: 240px;
+}
+
+@media (min-width: 768px) {
+  .header-nav {
+    height:10px;
+    line-height:10px;
+  }
+}

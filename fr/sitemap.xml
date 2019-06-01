@@ -1,38 +1,38 @@
-<?xml-stylesheet type="text/xsl" href="https://falsefiresite.github.io/falsefire.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/</loc>
+    <loc>/fr/</loc>
     <lastmod>2018-08-21T02:34:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/reports/</loc>
+    <loc>/fr/reports/</loc>
     <lastmod>2018-08-21T02:34:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/about/</loc>
+    <loc>/fr/about/</loc>
     <lastmod>2018-08-21T02:34:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/reports/beijing_is_burning/</loc>
+    <loc>/fr/reports/beijing_is_burning/</loc>
     <lastmod>2001-02-13T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/reports/human_fire_ignites_chinese_mystery/</loc>
+    <loc>/fr/reports/human_fire_ignites_chinese_mystery/</loc>
     <lastmod>2001-02-04T00:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://falsefiresite.github.io/falsefire.com/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <priority>0</priority>
   </url>
   

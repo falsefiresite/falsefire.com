@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>False Fire Homepage on False Fire (F)</title>
-    <link>/fr/</link>
+    <link>https://falsefiresite.github.io/falsefire.com/fr/</link>
     <description>Recent content in False Fire Homepage on False Fire (F)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Tue, 21 Aug 2018 02:34:52 +0200</lastBuildDate>
     
-        <atom:link href="/fr/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://falsefiresite.github.io/falsefire.com/fr/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>À propos du programme vidéo False Fire</title>
-      <link>/fr/about/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/fr/about/</link>
       <pubDate>Tue, 21 Aug 2018 02:34:52 +0200</pubDate>
       
-      <guid>/fr/about/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/fr/about/</guid>
       
         <description>
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>Ann Noonan: Beijing is Burning - More Lies from the PRC</title>
-      <link>/fr/reports/beijing_is_burning/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/fr/reports/beijing_is_burning/</link>
       <pubDate>Tue, 13 Feb 2001 00:00:00 +0200</pubDate>
       
-      <guid>/fr/reports/beijing_is_burning/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/fr/reports/beijing_is_burning/</guid>
       
         <description>
 
@@ -80,10 +80,10 @@
     
     <item>
       <title>Philip Pan, Washington Post: Human Fire Ignites Chinese Mystery (F)</title>
-      <link>/fr/reports/human_fire_ignites_chinese_mystery/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/fr/reports/human_fire_ignites_chinese_mystery/</link>
       <pubDate>Sun, 04 Feb 2001 00:00:00 +0200</pubDate>
       
-      <guid>/fr/reports/human_fire_ignites_chinese_mystery/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/fr/reports/human_fire_ignites_chinese_mystery/</guid>
       
         <description>
 

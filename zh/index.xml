@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <channel>
     <title>False Fire Homepage on 偽火</title>
-    <link>/zh/</link>
+    <link>https://falsefiresite.github.io/falsefire.com/zh/</link>
     <description>Recent content in False Fire Homepage on 偽火</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Tue, 21 Aug 2018 02:34:52 +0200</lastBuildDate>
     
-        <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://falsefiresite.github.io/falsefire.com/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>關於《偽火》視頻</title>
-      <link>/zh/about/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/zh/about/</link>
       <pubDate>Tue, 21 Aug 2018 02:34:52 +0200</pubDate>
       
-      <guid>/zh/about/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/zh/about/</guid>
       
         <description>
 
@@ -30,10 +30,10 @@
     
     <item>
       <title>媒體頻道: 這次的火焰 - 自焚還是北京的欺騙?</title>
-      <link>/zh/reports/the_fire_this_time_immolation_or_deception_in_beijing/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/zh/reports/the_fire_this_time_immolation_or_deception_in_beijing/</link>
       <pubDate>Thu, 22 Feb 2001 00:00:00 +0200</pubDate>
       
-      <guid>/zh/reports/the_fire_this_time_immolation_or_deception_in_beijing/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/zh/reports/the_fire_this_time_immolation_or_deception_in_beijing/</guid>
       
         <description>
 
@@ -109,10 +109,10 @@ These are perhaps small details, but they may be telling.&lt;/p&gt;
     
     <item>
       <title>國家評論: 北京在燃燒 - 更多的中國謊言</title>
-      <link>/zh/reports/beijing_is_burning/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/zh/reports/beijing_is_burning/</link>
       <pubDate>Tue, 13 Feb 2001 00:00:00 +0200</pubDate>
       
-      <guid>/zh/reports/beijing_is_burning/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/zh/reports/beijing_is_burning/</guid>
       
         <description>
 
@@ -157,10 +157,10 @@ These are perhaps small details, but they may be telling.&lt;/p&gt;
     
     <item>
       <title>華盛頓郵報: 人體火焰點燃中國疑團</title>
-      <link>/zh/reports/human_fire_ignites_chinese_mystery/</link>
+      <link>https://falsefiresite.github.io/falsefire.com/zh/reports/human_fire_ignites_chinese_mystery/</link>
       <pubDate>Sun, 04 Feb 2001 00:00:00 +0200</pubDate>
       
-      <guid>/zh/reports/human_fire_ignites_chinese_mystery/</guid>
+      <guid>https://falsefiresite.github.io/falsefire.com/zh/reports/human_fire_ignites_chinese_mystery/</guid>
       
         <description>
 

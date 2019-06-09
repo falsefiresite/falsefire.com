@@ -1,0 +1,27 @@
+/* video.js shortcode */
+.video-js {
+    margin: 2rem auto;
+    width: 100%;
+    /*height: 0;*/
+    padding-top: 56.25%;
+  }
+  
+.video-js .my-player-dimensions {
+    margin: 2rem auto;
+    width: 100%;
+    /*height: 0;*/
+    padding-top: 56.25%;
+}
+  
+.video-js:focus {
+    outline: none;
+}
+  
+.video-js .vjs-control .vjs-big-play-button:focus {
+    outline: none;
+}
+  
+.video-js .vjs-poster {
+    background-size: cover;
+}
+  

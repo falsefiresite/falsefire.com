@@ -8,3 +8,7 @@
     line-height:10px;
   }
 }
+
+.header-nav .nav-menu .fas {
+  padding-right: 0px;
+}
